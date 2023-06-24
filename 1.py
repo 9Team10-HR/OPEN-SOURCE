@@ -113,14 +113,14 @@ logo = ("""
  \033[1;93m╔═════════════════[\033[1;32m 𝘼𝘿𝙈𝙄𝙉 𝙄𝙉-𝙁𝙍𝙊 \033[1;32m]══════════════╗
  \033[1;93m║     \033[1;96m[✓] CREATED BY\33[0;m   : \033[1;96m 𝐌𝐃:HR     \033[1;32m║
  \033[1;93m║     \033[1;32m[✓] FACEBOK      : \033[1;34m 𝐌𝐃:𝐇𝐑      \033[1;32m║
- \033[1;93m║     \033[1;35m[✓] GITHUB       :  \033[1;35mPINIK-SHAWON         \033[1;32m ║
+ \033[1;93m║     \033[1;35m[✓] GITHUB       :  \033[1;35mMD:HR         \033[1;32m ║
  \033[1;93m║     \033[1;36m[✓] TOOL STATUS  : \033[1;36m Random Cloning       \033[1;32m ║
  \033[1;93m║     \033[1;35m[✓] TEAM         :  \033[1;35 TEAM -910\033[1;32m ║
  \033[1;93m║     \033[1;36m[✓] TOOL VIRSION :  \033[1;36m0.0                  \033[1;32m ║
  \033[1;93m║᯽⊱┈──╌❊❊╌──┈⊰᯽⊱⊰᯽⊱┈──╌❊❊╌──┈⊰᯽⊱⊰᯽⊱┈─╌❊❊╌──┈⊰᯽⊱ \033[1;32m║
  \033[1;93m║  [\033[1;97m•\033[1;91m]\033[1;32m PLZ SAPPORT ME BRO....                 \033[1;32m  ║
  \033[1;93m║  [\033[1;97m•\033[1;91m]\033[1;32m 𝐇R TERMUX COMMEND ZONE....          \033[1;32m ║
- \033[1;93m╚═════════════════[\033[1;93m 𝐏𝐈𝐍𝐈𝐊-𝐇R \033[1;32m]══════════════╝""")
+ \033[1;93m╚═════════════════[\033[1;93m BLACK-𝐇R \033[1;32m]══════════════╝""")
 def linex():
 	print('\033[1;93m ×××××××××××××××××××××××××××××××××××××××××××××××××')
 loop = 0
@@ -243,7 +243,7 @@ def xxr():
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m TOTAL IDS: {xr}'+tl)
         print(f'{x} \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m THE PROCESS HAS BEEN STARTED')
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m WORK CUNTRY \033[1;97m: \033[1;96mBANGLADESH')
-        print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m TOOL OWNER \033[1;97m: \033[1;96m 𝐌𝐑-𝐒𝐇𝐀𝐖𝐎𝐍')
+        print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m TOOL OWNER \033[1;97m: \033[1;96m 🍁𝐌D:HR🍁')
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m USE NETWORK  \033[1;97m:  \033[1;96m2G, 3G, 4G, 5G ')
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;91m USE AEROPLANE MOOD IN EVERY 5 MIN ')
         print(f" \033[1;93m×××××××××××××××××××××××××××××××××××××××××××××××××")
@@ -282,7 +282,7 @@ def rcrack(uid,pwx,tl):
 			'scheme': 'https',
 			'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
 			'accept-encoding': 'gzip, deflate, br',
-			'accept-language': 'en-US,en;q=0.9',
+			'accept-language':MD-HR-CPen;q=0.9',
 			'referer': 'https://t.facebook.com/',
 			'sec-ch-ua': '"Google Chrome";v="90", "Not)A;Brand";v="8", "Chromium";v="75"',
 			'sec-ch-ua-mobile': '?0',
@@ -312,7 +312,7 @@ def rcrack(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\r%s {x}[{xr}MD-HR-{x}][%s|%s][OK:{xr}%s{x}]'%(H,loop,tl,len(oks))),
+        sys.stdout.write(f'\r\r%s {x}[{xr}😜MD:HR🍁{x}][%s|%s][OK:{xr}%s{x}]'%(H,loop,tl,len(oks))),
         sys.stdout.flush()
     except:
         pass
