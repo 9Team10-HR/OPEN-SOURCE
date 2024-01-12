@@ -282,7 +282,7 @@ def rcrack(uid,pwx,tl):
 			'scheme': 'https',
 			'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
 			'accept-encoding': 'gzip, deflate, br',
-			'accept-language':0.9',
+			'accept-language': 'en-US,en;q=0.9',
 			'referer': 'https://t.facebook.com/',
 			'sec-ch-ua': '"Google Chrome";v="90", "Not)A;Brand";v="8", "Chromium";v="75"',
 			'sec-ch-ua-mobile': '?0',
